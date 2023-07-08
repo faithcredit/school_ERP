@@ -1,7 +1,5 @@
 ## **Laravel School Management System** 
-## Contact us
-## Gmail: freelanceferif@gmail.com
-## $ S k y p e : live:.cid.2fd64e0ca7cf706c
+
 **LAVSMS** is developed for educational institutions like schools and colleges built on Laravel 8
 
 **SCREENSHOTS** 
